@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "純粋とは何か?",
+  "base_artist": "乃木坂46",
+  "createdAt": "2026-02-15T13:59:16.049528Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "純粋とは何か?",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_純粋とは何か_乃木坂46.txt"
+    }
+  ]
+}
